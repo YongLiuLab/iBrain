@@ -1,7 +1,7 @@
 # iBrain introduction
 iBrain toolbox is designed for multi-scale structural feature extraction and report generation for neurodegenerative diseases. The toolbox provide simplified GUI and batch script which support subject level brain report from original DICOM or NIFTI T1 image. iBrain is written by MATLAB and Python scripts which can be successfully on Window and Linux operation system. 
 
-                                    ![image](https://github.com/YongLiuLab/iBrain/assets/20011474/7511f335-8b20-423b-972c-0623310a2751)
+![image](https://github.com/YongLiuLab/iBrain/assets/20011474/7511f335-8b20-423b-972c-0623310a2751)
 
 # Pre-requests
 • SPM12 and CAT12: SPM is freely available to the (neuro) imaging community andrepresents the implementation of the theoretical concepts of Statistical Parametric Mapping in a complete analysis package, our toolbox use SPM for basic data I/O options. CAT12 is a comprehensive MATLAB toolbox specifically designed for the analysis and processing of structural brain MRI data, our toolbox use CAT12 to generate basic structural features. It provides a range of advanced tools and functions to facilitate voxel-based morphometry (VBM) and other morphometric analyses. SPM12 toolbox needs to be copy into dependenices folder, and CAT12 needs to be put in dependenices/spm12/toolbox folder. 
