@@ -1,7 +1,7 @@
 # iBrain introduction
 iBrain toolbox is designed for multi-scale structural feature extraction and report generation for neurodegenerative diseases. The toolbox provide simplified GUI and batch script which support subject level brain report from original DICOM or NIFTI T1 image. iBrain is written by MATLAB and Python scripts which can be successfully on Window and Linux operation system. 
 <div align=center>
-<img src=https://github.com/YongLiuLab/iBrain/assets/20011474/465e0401-19ce-4b5b-8e04-b1a90de9bc2b>
+<img src=https://github.com/YongLiuLab/iBrain/assets/20011474/3de46c0a-3298-4274-bc4b-bc23bb4f4b2c>
 </div>
 <div align=center>
 <img src=https://github.com/YongLiuLab/iBrain/assets/20011474/e330cebb-50d2-42d4-b246-086a5999c407>
