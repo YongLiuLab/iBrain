@@ -1,0 +1,9 @@
+re_path = 'F:\BN\MPR_pre\';
+
+for i = 1:41
+    X=sprintf('%03d',i);
+    dir_na = strcat(re_path,'Vs',X,)
+  
+
+
+end
